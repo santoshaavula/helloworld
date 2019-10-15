@@ -3,4 +3,4 @@ From tomcat:8-jre8
 
 # Maintainer 
 MAINTAINER "valaxytech@gmail.com" 
-COPY ./webapp.war /opt/tomcat/apache-tomcat-8.5.37/webapps
+COPY ./webapp.war /opt/tomcat/apache-tomcat-8.5.47/webapps
